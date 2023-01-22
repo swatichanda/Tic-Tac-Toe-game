@@ -1,10 +1,3 @@
-#import turtle
-#turtle
-#from tkinter import *
-#root = Tk()
-#root.geometry("500*500")
-#root.title("tic tac toe")
-
 def sum(a, b, c):
     return a + b + c
 
@@ -57,4 +50,3 @@ if __name__ == "__main__":
             print("Match over")
             break
         turn = 1 - turn
-#root.mainloop()
