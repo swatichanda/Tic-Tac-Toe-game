@@ -1,0 +1,1 @@
+A simple command-line Tic Tac Toe game built with Python. This project demonstrates the fundamentals of Python programming, including game logic, user input handling, and win condition checking. Playable by two players in the same terminal session.
